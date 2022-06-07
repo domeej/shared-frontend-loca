@@ -1,3 +1,3 @@
+const Paragraph = require("./atoms/Paragraph");
 
-//
-// module.exports = Paragraph
+module.exports = Paragraph
