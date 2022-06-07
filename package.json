@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/domeej/shared-frontend-loca/issues"
   },
-  "homepage": "https://github.com/domeej/shared-frontend-loca#readme"
+  "homepage": "https://github.com/domeej/shared-frontend-loca#readme",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
 }
